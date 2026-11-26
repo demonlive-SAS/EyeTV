@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News 24/7" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/16/0fb75ad2-a909-44bb-87dc-86b9d51cbeb2/thumbnail/1200x630/3c2876feb4b25922288eaeb0a1d6b8f0/247-key-channelthumbnail-1920x1080.jpg" group-title="CBS News",CBS News 24/7
+https://news20e7hhcb.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-name="CBS News Baltimore" tvg-logo="https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/08/17e49006-f6a7-4f33-83d3-6c55b491661f/thumbnail/1200x630/2e0352da695dcd64d32d12d42483eaa6/keyart-baltimore-1920x1080.jpg" group-title="CBS News",CBS News Baltimore
+https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/0/chunklist.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-name="CBS News Bay Area" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/07/ae0d6efc-6c56-42e1-a5d6-bee200328ba6/thumbnail/1200x630/5ea2b55815c24638b7e4cb105c553c11/keyart-bayarea-1920x1080.jpg" group-title="CBS News",CBS News Bay Area
+https://baya0f96heg.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-name="CBS News Boston" tvg-logo="https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/07/9424353c-27df-4d10-82a7-c91e379a82f9/thumbnail/1200x630/cba2f543f5eb419094845806ce8054b2/keyart-boston-1920x1080.jpg" group-title="CBS News",CBS News Boston
+https://bostoahhb12d.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-name="CBS News Chicago" tvg-logo="https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/06/ec30cfac-11c0-43e0-9186-b9ecd224f032/thumbnail/1200x630/99d89599395899d279198ee81ebb48f5/keyart-chicago-1920x1080.jpg" group-title="CBS News",CBS News Chicago
+https://chicad94bd07.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="CBSNewsColorado.us" tvg-name="CBS News Colorado" tvg-logo="https://assets2.cbsnewsstatic.com/hub/i/r/2025/01/08/d50828d3-4cd5-43a0-a378-f630b3e34418/thumbnail/1200x630/9adec9755a932e085ec7ed916a046ef7/cbs-news-colorado-image.jpg" group-title="CBS News",CBS News Colorado
+https://colorf2fd001.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 tvg-id="CBSNewsDetroit.us" tvg-name="CBS News Detroit" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/07/2749a49a-0143-412b-adb1-ba2055d3197f/thumbnail/1200x630/554d11a7b3b289ab89be285a2a9143b4/keyart-detroit-1920x1080.jpg" group-title="CBS News",CBS News Detroit
+https://detro3a34841.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-name="CBS News Los Angeles" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/06/5c8af6f5-24f8-4777-9b62-da6a483acaba/thumbnail/1200x630/e8401315b8198895b305b80535f57266/keyart-losangeles-1920x1080.jpg" group-title="CBS News",CBS News Los Angeles
+https://losandd87138.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-name="CBS News Miami" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/08/f0810eef-c923-45db-9ee5-38556d20e79f/thumbnail/1200x630/d53db2b814769693237bdd6a33a0a178/keyart-miami-1920x1080.jpg" group-title="CBS News",CBS News Miami
+https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/0/chunklist.m3u8
+#EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-name="CBS News Minnesota" tvg-logo="https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/08/12c2612a-ce6c-479e-b080-cadc7a2bdaff/thumbnail/1200x630/46dd0eae5c1f1038e68f296c2f054a7e/keyart-minnesota-1920x1080.jpg" group-title="CBS News",CBS News Minnesota
+https://minne3h5cdh7.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-name="CBS News New York" tvg-logo="https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/03/bb781080-52b7-4b09-9369-9a4c735a79a0/thumbnail/1200x630/bc746502e37e91e74f2626d8cba19e45/keyart-newyork-1920x1080.jpg" group-title="CBS News",CBS News New York
+https://newyo9h67ea3.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="CBSNewsPhiladelphia.us" tvg-name="CBS News Philadelphia" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/06/a7afdc73-333a-4faf-a06f-e0004e9621d5/thumbnail/1200x630/3d76fa034e255f96498281a4f242387a/keyart-philadelphia-1920x1080.jpg" group-title="CBS News",CBS News Philadelphia
+https://phila5bcfb03.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us" tvg-name="CBS News Pittsburgh" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/08/4186ed76-1b0c-45f2-ac88-9deef88697f9/thumbnail/1200x630/ea5fcf84899e3b69fafc9f496b1824c3/keyart-pittsburgh-1920x1080.jpg" group-title="CBS News",CBS News Pittsburgh
+https://pittsda654d7.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="CBSNewsSacramento.us" tvg-name="CBS News Sacramento" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/08/b2c76bd6-90f8-48a6-8974-d79f5cb44d5a/thumbnail/1200x630/2bddf63b67986ce9320471f7b95407cb/keyart-sacramento-1920x1080.jpg" group-title="CBS News",CBS News Sacramento
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/0/chunklist.m3u8
+#EXTINF:-1 tvg-id="CBSNewsTexas.us" tvg-name="CBS News Texas" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/06/789ed62d-6c3a-4f51-adf0-3833ed440cfa/thumbnail/1200x630/a5e4db189e73d5a597dfcc3f61e0ef2f/keyart-texas-1920x1080.jpg" group-title="CBS News",CBS News Texas
+https://texas50816cg.airspace-cdn.cbsivideo.com/live/manifest.m3u8
